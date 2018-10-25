@@ -2,7 +2,20 @@
 ### Setup
 We use React and ES6 and JSX in a normal index.html file with no npm or webpack in sight.
 
-1. Make `hello world` displays on the browser with only html. 
+1. Make `hello world` displays on the browser with only html. Maybe something more. like creating a Person Card
+
+```js
+
+    <div className="person">
+      <h1>Sherry</h1>
+      <p>Position: dev intern</p>
+    </div>
+     <div className="person">
+      <h1>XXX</h1>
+      <p>Position: OOOOO</p>
+    </div>
+```
+
 2. Add a reference to an external library by using CDN when experimenting with a new library, like our case here. so remove the html element added above and replace it with the following:
 
 ```js
