@@ -1,5 +1,5 @@
-
-# Setup
+# [React Workshop Intro](https://github.com/sherry0738/React_intro)
+### Setup
 We use React and ES6 and JSX in a normal index.html file with no npm or webpack in sight.
 
 1. Make `hello world` displays on the browser with only html. 
